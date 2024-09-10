@@ -2,6 +2,8 @@
 
 Bytetide is a peer-to-peer (P2P) file transfer application written in C that allows users to connect with other peers, add packages, process `.bpkg` files, construct Merkle trees, and find specific hashes.
 
+This was the final assignment for my Systems Programming class.
+
 ## Table of Contents
 
 - [Features](#features)
