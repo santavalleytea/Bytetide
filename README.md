@@ -4,11 +4,6 @@ Bytetide is a peer-to-peer (P2P) file transfer application written in C that all
 
 This was the final assignment for my Systems Programming class.
 
-## Table of Contents
-
-- [Features](#features)
-- [Usage](#usage)
-
 ## Features
 
 - **Peer Connection**: Connect with other peers in the network.
